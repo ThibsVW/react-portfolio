@@ -6,5 +6,5 @@
 This is a ReactJS based personal resume website template. Data is fed directly from a JSON File. This means that in its final form, it can be customized and used by anybody simply by filling in their own personal info into the JSON file and the changes will be dynamically fed into the site.
 
 
-## Githyb pages
+## Github pages
 
