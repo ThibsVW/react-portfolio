@@ -1,0 +1,149 @@
+{
+  "main": {
+    "name":"Thibault Vanweydeveld",
+    "occupation":"Hospitality Manager & Full Stack Web Developer",
+    "description":"Trust is the essence of Leadership",
+    "image":"profilepic.jpg",
+    "bio":"Performance-driven and motivated Full Stack Developer with a background in Hospitality and Business Management.Adept at managing and supervising other employees and determined to achieve extraordinary results. Possess a strong attention to detail, well-developed time management skills, and ability to complete all projects within schedule and in a timely manner.Passionate about approaching programming challenges from different angles and collaborating with others to create meaningful web applications. Recently completed a Certificate in Full Stack Development from University of Western Australia, gaining skills in Javascript, HTML, CSS, Node, mySQL, React, etc. Excited to develop responsive applications such as a Staff Online Learning Platform to help organisations retain and invest in their biggest asset - employees.Positioned to provide unique perspectives on how end users interact with websites and software platforms by leveraging background in digital marketing and finance.",
+    "contactmessage":"Get in touch!",
+    "email": "th.vw@hotmail.com",
+    "phone": "+61 420 655 283",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Perth",
+      "state":"Western Australia",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/thibault.vanweydeveld",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/thibault-vanweydeveld-829820120/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/thibs_oz/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/ThibsVW",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Full Stack Web Developer Skills",
+    "education":[
+      {
+        "school":"University of Western Australia",
+        "degree":"Certificate - Full Stack Developer",
+        "graduated":"October 2020",
+        "description":"Over the course of 24 weeks, I have attended informative lectures and take part in a variety of individual and team exercises, working independently and in groups, in the classroom and at home. Weekly homework assignments provided a great opportunity to apply what I have learned and build on it. The program gave me a comprehensive learning experience and true insight into a “day in the life” of a full stack developer ."
+      },
+      {
+        "school":"EPHEC (University in Belgium)",
+        "degree":"Bachelor Degree - International Trade & Business Management",
+        "graduated":"June 2010",
+        "description":"Learned how to manage and develop business activities on European, emerging or any international markets. Communicating, negotiating and lobbying in various languages with different cultures. Transporting and delivering goods and services across borders. Complying with national and international regulations. Dealing with market research, finances and business plan. Improving your analytical and leadership skills."
+      }
+    ],
+    "work":[
+      {
+        "company":"VenuesL!ve - Optus Stadium",
+        "title":"Assistant Catering Manager ",
+        "years":"April 2018 - Present",
+        "description":"Responsible for all aspect of catering operations linked to the restaurants and function departments. Optus Stadium owns three restaurants and 18 function spaces."
+      },
+      {
+        "company":"VenuesWest",
+        "title":"Assistant Catering Manager",
+        "years":"August 2017 - April 2018",
+        "description":"Responsible for all aspect of catering operations for multiple sites such as HBF Stadium, HBF Arena, Bendat Basketball Center & WA Athletics Stadium."
+      },
+      {
+        "company":"Ascot Quays",
+        "title":"Food & Beverage Manager",
+        "years":"April 2012- May 2017",
+        "description":"Responsible for all aspects of event management including budget development, vendor selections, proposal and logistical planning, recruitment and staff training."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"CSS & HTML5",
+        "level":"85%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"55%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"70%"
+      },
+      {
+        "name":"mySQL",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Weather Dashboard",
+        "category":"Worldwide Weather Dashboard",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://thibsvw.github.io/Weather-dashboard/"
+      },
+      {
+        "title":"Workout Tracker",
+        "category":"A fitness app that allows the user to view, create, and track daily workouts",
+        "image":"fury-fighting-gear.jpg",
+        "url":"https://desolate-shelf-74690.herokuapp.com/"
+      },
+      {
+        "title":"Budget Tracker",
+        "category":"Here you will find my budget tracker, designed to help track your finances ON and OFFLINE, wherever you go.",
+        "image":"original-thai-food.jpg",
+        "url":"https://fast-thicket-03465.herokuapp.com/"
+      },
+      {
+        "title":"Employee Directory",
+        "category":"This app utilizes an API to populate random users and then create a directory.",
+        "image":"resume-website.jpg",
+        "url":"https://reactdirectory.herokuapp.com/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Thibault is an extraordinarily experienced manager who deeply understands his work and gets things done efficiently, thoroughly, and correctly in accordance with best practices. Drawing from his vast experience, Thibault has an immediate grasp of the scope of any project, and is quick to identify potential complications so they can be addressed in the planning stage. A natural mentor who is generous with his time and expertise, Thibault can always be counted on by his colleagues to provide valuable insight and guidance. I wholeheartedly recommend Thibault to anyone who values a principled, expert, team player.",
+        "user":" Josh Davis  "
+      },
+      {
+        "text":"Excellent leader! I would like to work with him again given the opportunity. A very valuable asset to any organization who would like to take advantage of his skillset.",
+        "user":" Vanessa Brown "
+      }
+    ]
+  }
+}
