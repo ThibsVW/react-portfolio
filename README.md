@@ -8,3 +8,4 @@ This is a ReactJS based personal resume website template. Data is fed directly f
 
 ## Github pages
 
+[Github Pages](https://thibsvw.github.io/react-portfolio/)
