@@ -11,8 +11,8 @@
     "address":{
       "street":"(Your Street)",
       "city":"Perth",
-      "state":"Western Australia",
-      "zip": "t.vanweydeveld@gmail.com"
+      "zip": "t.vanweydeveld@gmail.com",
+      "state":"Western Australia"
     },
     "website": "",
     "resumedownload":"",
