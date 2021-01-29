@@ -7,7 +7,7 @@
     "bio":"Performance-driven and motivated Full Stack Developer with a background in Hospitality and Business Management.Adept at managing and supervising other employees and determined to achieve extraordinary results. Possess a strong attention to detail, well-developed time management skills, and ability to complete all projects within schedule and in a timely manner.Passionate about approaching programming challenges from different angles and collaborating with others. Recently completed a Certificate in Full Stack Development from University of Western Australia, gaining skills in Javascript, HTML, CSS, Node, mySQL, React, etc. Excited to develop responsive applications such as a Staff Online Learning Platform to help organisations retain and invest in their biggest asset - employees.Positioned to provide unique perspectives on how end users interact with websites and software platforms.",
     "contactmessage":"Get in touch!",
     "email": "t.vanweydeveld@gmail.com",
-    "phone": "+61 420 655 283",
+    "phone": "",
     "address":{
       "street":"(Your Street)",
       "city":"Perth",
@@ -40,7 +40,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Full Stack Web Developer Skills",
+    "skillmessage":"Hospitality Management & Full Stack Web Developer Skills",
     "education":[
       {
         "school":"University of Western Australia",
@@ -109,28 +109,35 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Weather Dashboard",
-        "category":"Worldwide Weather Dashboard",
+        "title":"Optus Stadium",
+        "category":"Stadium",
         "image":"canadian-wanderlust.jpg",
-        "url":"https://thibsvw.github.io/Weather-dashboard/"
+        "url":"https://optusstadium.com.au/"
       },
+
       {
-        "title":"Workout Tracker",
-        "category":"A fitness app that allows the user to view, create, and track daily workouts",
-        "image": "fury-fighting-gear.jpg",
-        "url":"https://desolate-shelf-74690.herokuapp.com/"
-      },
-      {
-        "title":"Budget Tracker",
-        "category":"Here you will find my budget tracker, designed to help track your finances ON and OFFLINE, wherever you go.",
+        "title":"VenuesWest",
+        "category":"Sports & Entertainment Venues",
         "image":"original-thai-food.jpg",
-        "url":"https://fast-thicket-03465.herokuapp.com/"
+        "url":"https://www.venueswest.wa.gov.au/"
       },
       {
-        "title":"Employee Directory",
-        "category":"This app utilizes an API to populate random users and then create a directory.",
+        "title":"Aloft Perth",
+        "category":"Hotel",
         "image":"resume-website.jpg",
-        "url":"https://reactdirectory.herokuapp.com/"
+        "url":"https://www.marriott.com.au/hotels/travel/peral-aloft-perth/"
+      },
+      {
+        "title":"Ascot Quays",
+        "category":"Hotel",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://assuredascotquaysapartment.hotels-perth.com/en/"
+      },
+      {
+        "title":"Mindil Beach Casino Resort",
+        "category":"Casino",
+        "image":"smirkspace.jpg",
+        "url":"https://www.mindilbeachcasinoresort.com.au/"
       }
     ]
   },
