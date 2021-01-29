@@ -2,17 +2,17 @@
   "main": {
     "name":"Thibault Vanweydeveld",
     "occupation":"Hospitality Manager & Full Stack Web Developer",
-    "description":"Trust is the essence of Leadership",
+    "description":"Trust is the essence of leadership",
     "image":"profilepic.jpg",
-    "bio":"Performance-driven and motivated Full Stack Developer with a background in Hospitality and Business Management.Adept at managing and supervising other employees and determined to achieve extraordinary results. Possess a strong attention to detail, well-developed time management skills, and ability to complete all projects within schedule and in a timely manner.Passionate about approaching programming challenges from different angles and collaborating with others to create meaningful web applications. Recently completed a Certificate in Full Stack Development from University of Western Australia, gaining skills in Javascript, HTML, CSS, Node, mySQL, React, etc. Excited to develop responsive applications such as a Staff Online Learning Platform to help organisations retain and invest in their biggest asset - employees.Positioned to provide unique perspectives on how end users interact with websites and software platforms by leveraging background in digital marketing and finance.",
+    "bio":"Performance-driven and motivated Full Stack Developer with a background in Hospitality and Business Management.Adept at managing and supervising other employees and determined to achieve extraordinary results. Possess a strong attention to detail, well-developed time management skills, and ability to complete all projects within schedule and in a timely manner.Passionate about approaching programming challenges from different angles and collaborating with others. Recently completed a Certificate in Full Stack Development from University of Western Australia, gaining skills in Javascript, HTML, CSS, Node, mySQL, React, etc. Excited to develop responsive applications such as a Staff Online Learning Platform to help organisations retain and invest in their biggest asset - employees.Positioned to provide unique perspectives on how end users interact with websites and software platforms.",
     "contactmessage":"Get in touch!",
-    "email": "th.vw@hotmail.com",
+    "email": "t.vanweydeveld@gmail.com",
     "phone": "+61 420 655 283",
     "address":{
       "street":"(Your Street)",
       "city":"Perth",
       "state":"Western Australia",
-      "zip": "(Your Zip/Postal Code)"
+      "zip": "t.vanweydeveld@gmail.com"
     },
     "website": "",
     "resumedownload":"",
@@ -52,7 +52,7 @@
         "school":"EPHEC (University in Belgium)",
         "degree":"Bachelor Degree - International Trade & Business Management",
         "graduated":"June 2010",
-        "description":"Learned how to manage and develop business activities on European, emerging or any international markets. Communicating, negotiating and lobbying in various languages with different cultures. Transporting and delivering goods and services across borders. Complying with national and international regulations. Dealing with market research, finances and business plan. Improving your analytical and leadership skills."
+        "description":"Learned how to manage and develop business activities on European, emerging or any international markets. Communicating, negotiating and lobbying in various languages with different cultures. Transporting and delivering goods and services across borders. Complying with national and international regulations. Dealing with market research, finances and business plan. Improving my analytical and leadership skills."
       }
     ],
     "work":[
@@ -77,32 +77,32 @@
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"80%"
+        "name":"Hospitality Management",
+        "level":"95%"
       },
       {
-        "name":"CSS & HTML5",
-        "level":"85%"
+        "name":"Planning & Budgeting",
+        "level":"95%"
       },
       {
-        "name":"JavaScript",
-        "level":"55%"
+        "name":"Web Development",
+        "level":"65%"
       },
       {
-        "name":"NodeJS",
-        "level":"80%"
+        "name":"Graphic Design",
+        "level":"60%"
       },
       {
-        "name":"ReactJS",
-        "level":"70%"
+        "name":"Team & People",
+        "level":"100%"
       },
       {
-        "name":"mySQL",
-        "level":"50%"
+        "name":"Decision-making",
+        "level":"90%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"Problem-solving",
+        "level":"90%"
       }
     ]
   },
